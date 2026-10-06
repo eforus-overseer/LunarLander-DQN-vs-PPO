@@ -268,3 +268,11 @@ checkpoint = torch.load("models/best_agent.pt", weights_only=True)
 ## License
 
 MIT
+
+---
+
+<!-- demo-lab:start -->
+## Explore this project
+
+[Project page & walkthrough](https://eforus-overseer.github.io/demo-lab/projects/lunarlander-dqn-vs-ppo/) — Watch original agent recordings and explore the method and source artifacts.
+<!-- demo-lab:end -->
