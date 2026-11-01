@@ -276,3 +276,11 @@ MIT
 
 [Project page & walkthrough](https://eforus-overseer.github.io/demo-lab/projects/lunarlander-dqn-vs-ppo/) — Watch original agent recordings and explore the method and source artifacts.
 <!-- demo-lab:end -->
+
+
+<!-- codex-pixel-art -->
+## Pixel art
+
+![Pixel art for LunarLander-DQN-vs-PPO](assets/pixel-art.svg)
+
+A small visual signature for this repository.
